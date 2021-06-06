@@ -1,11 +1,8 @@
-#PyCalc
-
+PyCalc:
 Calculadora de Python escrita en Español.
 
-#Requisitos
-
+Requisitos:
 Se necesita Python3 Instalado. Instálese en https://www.python.org/
 
-#Creditos
-
+Creditos:
 Hecho & Traducido por Keo // @Dracukeo
