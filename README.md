@@ -5,4 +5,4 @@ Requisitos:
 Se necesita Python3 Instalado. Instálese en https://www.python.org/
 
 Creditos:
-Hecho & Traducido por Staind // @7vp
+Hecho & Traducido por Kickeado // @kickeadoh
