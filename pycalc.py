@@ -41,4 +41,4 @@ else:
    print("Error! Intentálo de Nuevo...")  
    end
    
-  #Hecho por Staind // @7vp
+  #Hecho por Kickeado // @kickeadoh
