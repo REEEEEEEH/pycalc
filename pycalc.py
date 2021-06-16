@@ -41,4 +41,4 @@ else:
    print("Error! Intentálo de Nuevo...")  
    end
    
-  #Hecho por Rafael // @7vp
+  #Hecho por Vicen // @Vicensk
